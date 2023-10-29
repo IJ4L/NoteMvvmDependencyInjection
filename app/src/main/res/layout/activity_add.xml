@@ -58,7 +58,8 @@
         android:textSize="26sp"
         android:background="@null"
         android:textColor="@color/black"
-        android:textColorHint="@color/black"/>
+        android:textColorHint="@color/black"
+        tools:ignore="Autofill" />
 
     <EditText
         android:id="@+id/et_description"
