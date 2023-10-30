@@ -1,1 +1,1 @@
-# note_mvvm_di testing
+# note_mvvm_di testing app
